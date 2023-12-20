@@ -1,1 +1,1 @@
-# -andy_store
+# candy_store
